@@ -5,3 +5,4 @@
 4. 0x0D-SQL_introduction
 5. 0x0E-SQL_more_queries
 6. 0x0F-python-object_relational_mapping
+7. 0x00-python-hello_world
