@@ -6,3 +6,4 @@
 5. 0x0E-SQL_more_queries
 6. 0x0F-python-object_relational_mapping
 7. 0x00-python-hello_world
+8. 0x01-python-if_else_loops_functions
