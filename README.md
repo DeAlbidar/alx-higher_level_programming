@@ -7,3 +7,4 @@
 6. 0x0F-python-object_relational_mapping
 7. 0x00-python-hello_world
 8. 0x01-python-if_else_loops_functions
+9. 0x02-python-import_modules
