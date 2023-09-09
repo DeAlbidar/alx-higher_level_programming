@@ -8,3 +8,4 @@
 7. 0x00-python-hello_world
 8. 0x01-python-if_else_loops_functions
 9. 0x02-python-import_modules
+10. 0x03-python-data_structures
