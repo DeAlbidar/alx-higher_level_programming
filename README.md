@@ -10,3 +10,4 @@
 9. 0x02-python-import_modules
 10. 0x03-python-data_structures
 11. 0x04-python-more_data_structures
+12. 0x05-python-exceptions
