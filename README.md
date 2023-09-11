@@ -11,3 +11,4 @@
 10. 0x03-python-data_structures
 11. 0x04-python-more_data_structures
 12. 0x05-python-exceptions
+13. 0x06-python-classes
